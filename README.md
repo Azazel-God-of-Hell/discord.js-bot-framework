@@ -1,5 +1,7 @@
 # discord.js-bot-framework
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7090099b5a5d4a1c9bd83602b326fa82)](https://app.codacy.com/gh/Destinovant/discord.js-bot-framework?utm_source=github.com&utm_medium=referral&utm_content=Destinovant/discord.js-bot-framework&utm_campaign=Badge_Grade_Settings)
+
 ## Description
 This is a simple framework/template used whenever I create a new discord.js client/bot.
 
