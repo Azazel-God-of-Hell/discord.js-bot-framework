@@ -1,0 +1,44 @@
+{
+  "name": "discord.js-bot-framework",
+  "version": "1.0.0",
+  "description": "A framework/template I use whenever creating new bots.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Destinovant/discord.js-bot-framework.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "framework",
+    "template",
+    "discord",
+    "discord-bot",
+    "discord.js-bot"
+  ],
+  "author": "Destinovant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Destinovant/discord.js-bot-framework/issues"
+  },
+  "homepage": "https://github.com/Destinovant/discord.js-bot-framework#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "log-symbols": "^4.0.0",
+    "mongoose": "^5.11.15",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  },
+  "engines" : {
+    "node": ">= 12.18",
+    "npm": ">= 6.14"
+  }
+}
