@@ -11,7 +11,6 @@ const { validatePermissions } = require('./permissions');
 module.exports.loadCommands = (client, counter = 0) => {
     client.commands = new Collection();
     client.aliases = new Collection();
-    console.log('\nBegin initialization!\n');
 
     for(const categoryFolder of allCategories) {
 

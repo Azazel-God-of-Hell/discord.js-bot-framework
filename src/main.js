@@ -10,6 +10,7 @@ const client = new Client({ ws: { intents: ['GUILDS', 'GUILD_MESSAGES'] } });
 require('./clientExtensions.js')(client);
 require('dotenv').config();
 
+console.log('\nBegin Initialization!\n');
 loadCommands(client);
 loadListeners(client);
 client.login(process.env.DISCORD_TOKEN);
