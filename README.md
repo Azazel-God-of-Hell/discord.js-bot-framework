@@ -5,10 +5,13 @@
 ![JDB](src/assets/JDBWide.png)
 
 ## Description
-This is a simple framework/template used whenever I create a new discord.js client/bot. It's simple to understand, quick/easy to modify and best of all, it's licensed under MIT; meaning you can make adjustments/personal improvements wherever you want.
+This is a simple framework/template used whenever I create a new discord.js client/bot. It's simple to understand, and quick/easy to modify. You don't need much Javascript experience to get started on your own project using this framework, but have you always wanted to make your own Discord bot and you're not sure where to start? Come join my [Discord Server](https://discord.gg/KfHFhGNPvz), where I'll try and answer all the questions you have.
 
-## Discord
-Always wanted to make your own Discord bot but you're not sure where to start? Come join my [Discord Server](https://discord.gg/KfHFhGNPvz), I'll try and answer all the questions you have in there. I'm also willing to help out with any current projects you might have!
+## Requirements
+- A [MongoDB](https://www.mongodb.com/2) database
+    * Read [this guide](https://docs.mongodb.com/manual/administration/install-community/) if you need help creating one
+- [Node/NodeJS](https://nodejs.org/en/)
+    * Be sure to check the box that says "Automatically install the necessary tools" if you're running the installation wizard
 
 ### Hosting
 **1)** `cd` into your project folder
