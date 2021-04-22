@@ -200,7 +200,8 @@ exports.help = {
 
 exports.args = {
     required: [],
-    optional: []
+    optional: [],
+    flags: []
 };
 
 const addField = (message, embed, key, value, counter) => {
