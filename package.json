@@ -37,7 +37,7 @@
   "devDependencies": {
     "eslint": "^7.24.0"
   },
-  "engines" : {
+  "engines": {
     "node": ">= 12.18",
     "npm": ">= 6.14"
   }
